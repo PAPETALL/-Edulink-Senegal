@@ -49,7 +49,7 @@ npm run dev
 
 ## 📱 Captures d'écran
 
-![Dashboard](![alt text](image.png))
+(![alt text](image.png))
 
 ## 🤝 Contribution
 
